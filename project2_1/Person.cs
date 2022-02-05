@@ -12,9 +12,9 @@ namespace project2_1
         public string HomePlanet = "Earth";
         public DateTime DateOfBirth = DateTime.Now;
 
-        public Person(string name)
+        public Person()
         {
-            Name = name;
+            // Name = name;
         }
     }
 }
